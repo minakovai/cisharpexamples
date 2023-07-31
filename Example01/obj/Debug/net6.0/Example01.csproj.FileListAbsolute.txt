@@ -1,0 +1,15 @@
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/bin/Debug/net6.0/Example01
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/bin/Debug/net6.0/Example01.deps.json
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/bin/Debug/net6.0/Example01.runtimeconfig.json
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/bin/Debug/net6.0/Example01.dll
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/bin/Debug/net6.0/Example01.pdb
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.csproj.AssemblyReference.cache
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.AssemblyInfoInputs.cache
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.AssemblyInfo.cs
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.csproj.CoreCompileInputs.cache
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.dll
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/refint/Example01.dll
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.pdb
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/Example01.genruntimeconfig.cache
+/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/Debug/net6.0/ref/Example01.dll
