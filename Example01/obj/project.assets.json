@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/polzovatel/.nuget/packages/": {}
+    "C:\\Users\\minak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/polzovatel/Desktop/GIT/lesson300723/Example01/Example01.csproj",
+      "projectUniqueName": "C:\\Users\\minak\\OneDrive\\Документы\\GIT\\cisharpexamples\\Example01\\Example01.csproj",
       "projectName": "Example01",
-      "projectPath": "/Users/polzovatel/Desktop/GIT/lesson300723/Example01/Example01.csproj",
-      "packagesPath": "/Users/polzovatel/.nuget/packages/",
-      "outputPath": "/Users/polzovatel/Desktop/GIT/lesson300723/Example01/obj/",
+      "projectPath": "C:\\Users\\minak\\OneDrive\\Документы\\GIT\\cisharpexamples\\Example01\\Example01.csproj",
+      "packagesPath": "C:\\Users\\minak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\minak\\OneDrive\\Документы\\GIT\\cisharpexamples\\Example01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/polzovatel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\minak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.412/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
