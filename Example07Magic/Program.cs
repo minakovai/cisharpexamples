@@ -1,6 +1,12 @@
 ﻿Console.Clear ();
+<<<<<<< HEAD
 // Console.SetCursorPosition(10,4);
 // Console.WriteLine("+");
+=======
+//Console.SetWindowSize(100,100);
+//Console.SetCursorPosition(10,4);
+//Console.WriteLine("+");
+>>>>>>> c8f5de3734012de6f41de80350c738c0ac159807
 
 int xa = 40, ya = 1, 
     xb = 1, yb = 30,
